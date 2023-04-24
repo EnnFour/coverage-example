@@ -1,0 +1,9 @@
+setup.py
+src/coolpkg/__init__.py
+src/coolpkg.egg-info/PKG-INFO
+src/coolpkg.egg-info/SOURCES.txt
+src/coolpkg.egg-info/dependency_links.txt
+src/coolpkg.egg-info/not-zip-safe
+src/coolpkg.egg-info/top_level.txt
+src/coolpkg/core/__init__.py
+src/coolpkg/core/code.py
